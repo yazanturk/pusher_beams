@@ -1,6 +1,6 @@
 group 'com.pusher.pusher_beams'
 version '1.0-SNAPSHOT'
-
+# test
 buildscript {
     ext.kotlin_version = '1.5.30'
     repositories {
